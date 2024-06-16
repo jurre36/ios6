@@ -1,0 +1,14 @@
+Package: com.test.ios6
+Name: IOS 6
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: best IOS 6 theme
+Maintainer: Me <nobigdeal@life.com>
+Author: Me <nobigdeal@life.com>
+Section: Themes
+Depends: com.wizages.bae
+Filename: debs/IOS6.deb
+Size: 14833948
+MD5sum: 8c06baee6f37b55615f6b6c3d88ba6bd
+SHA1: 668bf4bcf0be59a36d624a859320d4e9c5934534
+SHA256: 19dac73e813c7b9cb4daffaa59ff89ca7b328c4d200722b146b8a548ee4517a2
